@@ -15,8 +15,8 @@ function App() {
       </div>
 
       <div className="content">
-        <h1>Welcome to NexBot</h1>
-        <p>This is your 3D robot concept rendered using Spline.</p>
+        <h1>OUR TEAM</h1>
+        <p>Avada Kedavra</p>
       </div>
     </div>
   );
